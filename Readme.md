@@ -12,7 +12,7 @@ $ npm install pipe-then --save
 
 ### Usage
 
-```
+```javascript
 const pipe = require('pipe-then');
 
 yield pipe(sourceStream, targetStream);
