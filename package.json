@@ -27,6 +27,6 @@
     "end-of-stream": "^1.1.0"
   },
   "devDependencies": {
-    "make-lint-es6": "^1.0.3"
+    "make-lint": "vdemedes/make-lint"
   }
 }

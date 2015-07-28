@@ -6,5 +6,5 @@ default:
 test:
 	@echo "No tests yet"
 
-include node_modules/make-lint-es6/index.mk
+include node_modules/make-lint/index.mk
 
